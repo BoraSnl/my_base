@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '%5rsfqox7n!n8*$9s0jfh9*%8*-w!fr^tard2m!=8q(raxj_h7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['borasanal.pythonanywhere.com']
 
